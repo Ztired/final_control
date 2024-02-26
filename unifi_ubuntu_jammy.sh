@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin bash
 
 # Install and setup UniFi Controller Software v8.x on Ubuntu 22.04 aka Jammy
 #
